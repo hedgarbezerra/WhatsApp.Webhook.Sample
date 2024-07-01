@@ -1,0 +1,6 @@
+@WhatsApp.Webhook.Sample_HostAddress = http://localhost:5008
+
+GET {{WhatsApp.Webhook.Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
